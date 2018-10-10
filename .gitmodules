@@ -1,0 +1,6 @@
+[submodule "source/machine"]
+	path = source/machine
+	url = https://github.com/docker/machine.git
+[submodule "source/compose"]
+	path = source/compose
+	url = https://github.com/docker/compose.git
